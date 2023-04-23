@@ -1,0 +1,85 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(217, 54%, 11%);
+}
+.container{
+    background-color: hsl(216, 50%, 16%);
+    width: 330px;
+    height: 600px;
+    border-radius: 7px;
+}
+
+.sec1{
+    text-align: center;
+    margin-top: 2rem;
+}
+.sec2{
+    display: flex;
+    justify-content: space-between;
+}
+
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-style: inset;
+    border-width: 1px;
+    border-top: .1px solid hsl(215, 51%, 70%);
+    border-bottom: .1px solid hsl(215, 51%, 70%);
+}
+
+.sec3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -90px;
+    color:hsl(215, 51%, 70%);
+}
+
+.attribution{
+    margin-top: 50px;
+    margin-left: 18px;
+    color:hsl(215, 51%, 70%);
+}
+.name {
+    text-decoration: none;
+    font-family: 'outfit';
+    font-size: 1.1rem;
+    color: hsl(0, 0%, 100%);
+}.foot1{
+    text-decoration: none;
+    font-family: 'outfit';
+    font-size: 1.1rem;
+    color: hsl(0, 0%, 100%);
+}
+.p1{
+    font-family: 'outfit';
+    font-weight: bold;
+    color: white;
+}
+.p2{
+    font-family: 'outfit';
+    font-size: 1.1rem;
+    color:hsl(215, 51%, 70%);
+}
+.eth{
+    text-decoration: none;
+    font-family: 'outfit';
+    color:  hsl(178, 100%, 50%);
+}
+.eth1{
+    text-decoration: none;
+    font-family: 'outfit';
+    color: hsl(215, 51%, 70%);
+}
+.img3{
+    border: 2px solid white;
+    border-radius: 25px 25px;
+}
+.img4{
+    border-radius: 7px;
+}
